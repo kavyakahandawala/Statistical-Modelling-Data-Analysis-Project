@@ -226,12 +226,3 @@ The results support the conclusion that improving operational responsiveness can
 
 ---
 
-## Academic Context
-
-**Module:** Theory and Practices in Statistical Modelling (TPSM)
-
-**Institution:** Sri Lanka Institute of Information Technology (SLIIT)
-
-**Project Type:** Statistical Data Analysis and Predictive Modelling
-
-**Language:** R Programming
